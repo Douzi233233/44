@@ -1,5 +1,7 @@
 # elm-release
- 饿了么吃货豆工具发布版
+ 饿了么吃货豆工具
+
+![elm.png](https://raw.githubusercontent.com/zelang/elm-release/main/elm.png)
 
 # 使用说明
 
